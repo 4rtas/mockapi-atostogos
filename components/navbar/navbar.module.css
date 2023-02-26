@@ -1,0 +1,13 @@
+.main {
+  height: 80px;
+  background-color: #6e6d6d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.title {
+  color: white;
+  font-size: 60px;
+}

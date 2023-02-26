@@ -1,0 +1,14 @@
+.btnWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.tripsWrapper {
+  display: grid;
+  grid-template-columns: auto auto;
+  max-width: 100%;
+  justify-content: space-evenly;
+  row-gap: 30px;
+}
